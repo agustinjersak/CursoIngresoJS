@@ -6,8 +6,8 @@ function sumar()
     var numero1;
     var numero2;
     var resultado;
-    numero1 = document.getElementById(numeroUno);
-    numero2 = document.getElementById(numeroDos);
+    numero1 = document.getElementById("numeroUno").value;
+    numero2 = document.getElementById("numeroDos").value;
     parseInt(numero1)
     parseInt(numero2)
     resultado = parseInt(numero1) + parseInt(numero2);
