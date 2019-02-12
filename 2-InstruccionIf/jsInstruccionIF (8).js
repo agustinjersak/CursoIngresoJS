@@ -4,7 +4,7 @@ function mostrar()
 var edad, eCivil;
 edad = document.getElementById("edad").value;
 eCivil = document.getElementById("estadoCivil").value;
-if(edad>17 && eCivil !="soltero"){
+if(edad>17 && eCivil =="Soltero"){
     alert("Es soltero y no es menor")
 }
 	
