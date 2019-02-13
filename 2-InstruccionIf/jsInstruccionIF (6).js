@@ -5,7 +5,7 @@ var edad
 edad = document.getElementById("edad").value;
 if(edad<13){
     alert("niño");
-}else{ 
+}
     
      if(edad>18){
         alert("adulto");

@@ -33,15 +33,8 @@ function Promedio ()
 }
 function PrecioFinal () 
 {
-    var numero, numero1, numero2, suma, resultado;
-    numero = document.getElementById("PrecioUno").value;
-    numero1 = document.getElementById("PrecioDos").value;
-    numero2 = document.getElementById("PrecioTres").value;
-    parseInt(numero);
-    parseInt(numero1);
-    parseInt(numero2);
-    suma = parseInt(numero) + parseInt(numero1) + parseInt(numero2);
-    resultado = suma + 21% 
+
+ 
 
 	
 }

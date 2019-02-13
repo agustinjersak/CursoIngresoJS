@@ -5,6 +5,8 @@ function mostrar()
     var largo
     var resultado
     ancho = prompt()
-    largo = parseint (largo);
+    largo = prompt()
+    parseInt(ancho);
+    parseInt(largo);
     alert (resultado);
 }
